@@ -41,6 +41,6 @@ CODSOFT-Java-Internship
 │   ├── Code-Screenshot-3.png
 │   └── Output-Screenshot.png
 │
-├── Task-2-...
+├── Task-2-
 │
-└── Task-3-...
+└── Task-3-
