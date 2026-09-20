@@ -85,3 +85,67 @@ A Java-based Student Grade Calculator that takes marks obtained in each subject,
 | 60% – 69% | D |
 | 50% – 59% | E |
 | Below 50% | F |
+## Task 3 – ATM Interface
+
+### Description
+
+A Java-based ATM Interface that allows users to check their balance, deposit money, withdraw money, and exit the application.
+
+### Features
+
+- Check account balance
+- Deposit money
+- Withdraw money
+- Insufficient balance validation
+- Invalid input handling
+- Transaction success and failure messages
+- Separate Bank Account and ATM classes
+
+### Technologies Used
+
+- Java
+- Java Scanner
+- Classes and Objects
+- Methods
+- Conditional Statements
+- Switch Statement
+
+---
+
+## Task 4 – Quiz Application with Timer
+
+### Description
+
+A Java-based multiple-choice Quiz Application with a time limit for each question. The application calculates the user's score and displays a summary of correct, incorrect, and unanswered questions.
+
+### Features
+
+- Multiple-choice questions
+- Four options for each question
+- Timer for each question
+- Answer submission
+- Automatic score calculation
+- Correct/incorrect answer tracking
+- Final score and percentage
+- Answer summary
+
+### Technologies Used
+
+- Java
+- Java Scanner
+- Arrays
+- Loops
+- Conditional Statements
+- Timer-based logic
+
+---
+
+## Task Status
+
+| Task | Status |
+|---|---|
+| Task 1 – Number Guessing Game | Completed |
+| Task 2 – Student Grade Calculator | Completed |
+| Task 3 – ATM Interface | Completed |
+| Task 4 – Quiz Application with Timer | Completed |
+| Task 5 | Pending |
