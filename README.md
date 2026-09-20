@@ -44,3 +44,44 @@ CODSOFT-Java-Internship
 ├── Task-2-
 │
 └── Task-3-
+## Task 2 – Student Grade Calculator
+
+### Description
+
+A Java-based Student Grade Calculator that takes marks obtained in each subject, calculates the total marks and average percentage, and assigns a grade based on the average percentage.
+
+### Features
+
+- Accepts marks for multiple subjects
+- Validates marks between 0 and 100
+- Calculates total marks
+- Calculates average percentage
+- Assigns grades based on percentage
+- Displays the final result clearly
+
+### Technologies Used
+
+- Java
+- Java Scanner
+- Conditional Statements
+- For Loop
+
+### How the Program Works
+
+1. The user enters the number of subjects.
+2. The user enters marks for each subject.
+3. The program calculates the total marks.
+4. The average percentage is calculated.
+5. A grade is assigned based on the average percentage.
+6. The total marks, average percentage, and grade are displayed.
+
+### Grade Criteria
+
+| Average Percentage | Grade |
+|---|---|
+| 90% – 100% | A |
+| 80% – 89% | B |
+| 70% – 79% | C |
+| 60% – 69% | D |
+| 50% – 59% | E |
+| Below 50% | F |
